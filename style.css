@@ -1,0 +1,82 @@
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    width: 70%;
+    padding-bottom: 10px;
+}
+
+.plage {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+main{
+    width: 100%;  
+}
+
+.bandeau {
+    width: 100%;
+    display: flex;
+}
+
+.textebandeau {
+    flex-wrap: wrap;
+}
+
+.page {
+    display: flex;
+    height: 100%;
+}
+
+article{
+    width: 70%;
+    border-bottom-style: solid;
+    border-color: black;
+}
+
+aside{
+    width: 30%;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.drapeau {
+    width: 30%;
+}
+
+footer {
+    display: flex;
+    width: 100%;
+    margin: auto;
+}
+
+.news {
+    width: 30%;
+}
+    
+.photo {
+    width: 40%;
+}
+
+.partenaire {
+    width: 30%;
+}
+
+.rio {
+    width: 10%;
+    margin: auto;
+}
+
+.photos {
+    width: 20%;
+    margin: auto;
+}
+
+.logopartenaire {
+    width: 20%;
+    margin: auto;
+}
