@@ -7,23 +7,22 @@ nav{
     padding-bottom: 10px;
 }
 
-.plage {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-}
-
 main{
     width: 100%;  
 }
 
-.bandeau {
+.plage{
     width: 100%;
-    display: flex;
 }
 
-.textebandeau {
-    flex-wrap: wrap;
+figcaption {
+    display: flex;
+    justify-content: space-between;
+    background-color: darkgray;
+}
+
+figcaption p {
+    margin: 0em;
 }
 
 .page {
